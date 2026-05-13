@@ -1,6 +1,6 @@
 # Roger Harris | HarrisConsulting
 
-![Banner: rainforest, code, community, AI, education](banner-placeholder.png)
+<img width="2752" height="1536" alt="Gemini_Generated_Image_38qlm338qlm338ql" src="https://github.com/user-attachments/assets/a0fc4e49-7957-4bd5-b2d8-8e6760e7d9b6" />
 
 <div align="center">
 
