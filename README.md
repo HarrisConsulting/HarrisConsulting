@@ -4,7 +4,7 @@
 
 <div align="center">
 
-**Expert Writer & Editor | AI Researcher & Thought-Leader | Web & Chatbot Developer**
+**Expert Writer & Editor | AI Researcher & Thought-Leader | Web, App & Plugin Developer**
 
 *Connecting Content, Code, and Community for 25+ Years*
 
