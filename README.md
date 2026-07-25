@@ -20,6 +20,10 @@
 
 I make unique connections across ideas, people, and technologies—synthesizing insights others might miss. As an author, developer, AI researcher, and community builder, I bring together writing, coding, and leadership to create meaningful digital experiences.
 
+### 🧠 Idea Engineer
+
+As an Idea Engineer, I specialize in resolving stakeholder friction, modernizing legacy systems, and engineering successful business turnarounds. I bridge the gap between creative vision and technical execution to replace outdated frameworks with scalable, high-performance solutions. Today, as Director of Development for a prestigious private school, I lead the modernization of their digital infrastructure from the ground up. I have designed and deployed on a custom React Native iOS (App Store, unlisted distribution) and Android (PlayStore) mobile app for families and staff, fully integrated with a comprehensive suite of data management portals for student tracking, inventory logistics, employee records, and institutional events. 
+
 ---
 
 ## 🚀 Projects & Achievements
@@ -36,8 +40,11 @@ I make unique connections across ideas, people, and technologies—synthesizing 
   - Science SME at Discovery Education (5 yrs)
   - 10+ years freelance curriculum design for digital learning providers
 
-- **Digital Transformation**:  
-  Director of Emerging Technologies at Sigma Xi; led early adoption of platforms like Twitter and Facebook for a 60,000-member society.
+- **Digital Transformation**:
+  - Director of Development for prestigous private school: created fully-featured custom React Native iOS/Android mobile for families and staff, integrated with full suite of data management portals for student and inventory tracking, employee data and school events.
+  - Director of Emerging Technologies at Sigma Xi; led early adoption of platforms (e.g., Twitter, Facebook, LinkedIn) in 2007-2008 for a 60,000-member society.
+
+  
 
 ---
 
