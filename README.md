@@ -29,11 +29,11 @@ As an Idea Engineer, I specialize in resolving stakeholder friction, modernizing
 I help organizations navigate the frontier of emerging technology and advanced AI systems by applying rigorous theoretical frameworks from evolutionary biology to map, model, and predict the lifespans of digital tools. By evaluating technology through an evo-eco lens, I provide deep-tech startups, R&D labs, and enterprise clients with the macro-level foresight needed to survive volatile market shifts. I specialize in supporting teams to manage complex, high-friction environments to execute business turnarounds and modernize outdated infrastructure.
 
 My proprietary research focuses on diagnosing systemic vulnerabilities before they disrupt operations:
-• AI Extinction Risk: Modeling how generative AI applications evolve, specialize, or face sudden evolutionary collapse.
-• Niche Collapse Simulators: Forecasting exact systemic outcomes when digital markets hit oversaturation.
-• Predictive Fitness Landscapes: Quantifying the adaptive lifespan and long-term viability of specific digital tools.
-• Digital Taxonomy: Developing precise structural classification systems to robustly catalog complex digital entities.
----
+
+- AI Extinction Risk: Modeling how generative AI applications evolve, specialize, or face sudden evolutionary collapse.
+- Niche Collapse Simulators: Forecasting exact systemic outcomes when digital markets hit oversaturation.
+- Predictive Fitness Landscapes: Quantifying the adaptive lifespan and long-term viability of specific digital tools.
+- Digital Taxonomy: Developing precise structural classification systems to robustly catalog complex digital entities.
 
 ---
 
